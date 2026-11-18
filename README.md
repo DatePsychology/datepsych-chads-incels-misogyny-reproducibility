@@ -1,6 +1,6 @@
 # Chads, Incels, and Misogyny — Reproducibility Materials
 
-Code, transcribed published statistics, numerical reconstructions, item-content coding, and companion figures for the [methodological review](https://datepsych.substack.com/p/chads-incels-and-misogyny-what-the) **“Chads, Incels, and Misogyny: What the Evidence Can Actually Tell Us.”**
+Code, transcribed published statistics, numerical reconstructions, item-content coding, and companion figures for the [methodological review](https://datepsych.substack.com/p/chads-incels-and-misogyny-what-the) **“Chads, Incels, and Misogyny”**
 
 **Scope:** This is a reproducibility package for the review's *published-summary calculations, qualitative item classification, and figures*. It is **not** a replication of Alexander's (2023) or Selmer et al.'s (2023) participant-level statistical analyses. Neither study's original respondent-level dataset was available for this review. No individual observations have been fabricated, imputed, or reverse-engineered.
 
