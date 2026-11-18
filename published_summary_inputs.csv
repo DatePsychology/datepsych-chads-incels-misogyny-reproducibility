@@ -1,0 +1,27 @@
+key,value,unit,source,notes
+alexander_n,348,people,Alexander (2023),Total respondents
+alexander_self_incel_n,45,people,Alexander (2023),Self-identified incels
+alexander_operational_incel_n,104,people,Alexander (2023),"Operational classification, overlap unknown"
+self_incel_ems_mean,49.45,EMS summed score,Alexander (2023),Group A
+nonself_ems_mean,33.39,EMS summed score,Alexander (2023),Group B
+self_incel_d,1.23,Cohen d,Alexander (2023),Published effect size
+operational_exclusive_ems_mean,37.59,EMS summed score,Alexander (2023),After exclusion of self-identified incels
+operational_comparison_ems_mean,32.17,EMS summed score,Alexander (2023),Comparison for operational incels
+operational_exclusive_d,0.47,Cohen d,Alexander (2023),Published effect size
+full_chad_ems_r,-0.29,Pearson r,Alexander (2023),Full sample
+full_chad_ems_p,3.39e-08,p value,Alexander (2023),Published p (r is rounded; recomputation need not match exactly)
+subset_chad_ems_r,-0.12,Pearson r,Alexander (2023),Neither incel criterion; n unreported
+subset_chad_ems_p,0.069,p value,Alexander (2023),Published p (rounded)
+chad_top_vs_bottom_d,-0.08,Cohen d,Alexander (2023),Top 10% versus bottom 50% after exclusions
+chad_top_vs_bottom_p,0.693,p value,Alexander (2023),Published p
+figure3_incel_mean,49.45,EMS summed score,Alexander (2023),Mean cited in mislabeled original Figure 3
+figure3_chad_mean,31.65,EMS summed score,Alexander (2023),Top 10% Chad Scale group; rounded
+figure3_d,1.35,Cohen d,Alexander (2023),Published Figure 3 effect size
+figure3_p,6.977e-08,p value,Alexander (2023),Published Figure 3 p value
+selmer_n,748,people,Selmer et al. (2023),Sample
+selmer_operational_incel_n,74,people,Selmer et al. (2023),Operational incels
+selmer_extreme_ems_n,57,people,Selmer et al. (2023),Every EMS item rated 6 or 7
+selmer_ems_alpha,0.96,Cronbach alpha,Selmer et al. (2023),Thirteen EMS items
+alexander_ems_alpha,0.88,Cronbach alpha,Alexander (2023),Thirteen EMS items
+selmer_incel_adjusted_b,-0.0002,coefficient on 0–1 EMS scale,Selmer et al. (2023) Appendix E,"Adjusted operational-incel coefficient, rounded"
+selmer_incel_adjusted_se,0.026,standard error on 0–1 EMS scale,Selmer et al. (2023) Appendix E,Rounded SE

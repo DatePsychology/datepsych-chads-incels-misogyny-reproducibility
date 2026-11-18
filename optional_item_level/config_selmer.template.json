@@ -1,0 +1,8 @@
+{
+  "study": "selmer",
+  "ems_items": ["ems01", "ems02", "ems03", "ems04", "ems05", "ems06", "ems07", "ems08", "ems09", "ems10", "ems11", "ems12", "ems13"],
+  "soi_have": "soi_have",
+  "soi_want": "soi_want",
+  "covariates": ["age", "education", "ethnicity", "state", "machiavellianism", "narcissism", "psychopathy"],
+  "categoricals": ["education", "ethnicity", "state"]
+}

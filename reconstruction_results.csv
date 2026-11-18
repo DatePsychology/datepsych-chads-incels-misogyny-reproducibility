@@ -1,0 +1,30 @@
+calculation,value,status_or_assumption
+full_r_fisher_ci_lower,-0.383440668034,"reconstructed Fisher-z, n=348"
+full_r_fisher_ci_upper,-0.190682523373,"reconstructed Fisher-z, n=348"
+full_r_p_from_rounded_r,3.60359660133e-08,reconstructed; differs from published p because rounded r
+subset_r_fisher_ci_lower_n230,-0.245546872023,hypothetical n=230
+subset_r_fisher_ci_upper_n230,0.00950606388031,hypothetical n=230
+subset_r_fisher_ci_lower_n244,-0.241939717787,hypothetical n=244
+subset_r_fisher_ci_upper_n244,0.00567128960234,hypothetical n=244
+subset_r_p_from_rounded_r_n230,0.0692869334948,hypothetical n=230
+subset_r_p_from_rounded_r_n244,0.0612615405958,hypothetical n=244
+self_identified_ems_gap,16.06,published group means subtracted
+operational_exclusive_ems_gap,5.42,published group means subtracted
+self_gap_equal_share_5_of_13,6.17692307692,hypothetical equal item contributions
+operational_gap_equal_share_5_of_13,2.08461538462,hypothetical equal item contributions
+self_gap_remaining_8_of_13,9.88307692308,hypothetical equal item contributions
+operational_gap_remaining_8_of_13,3.33538461538,hypothetical equal item contributions
+self_gap_per_distress_item_to_explain_all,3.212,"hypothetical, other 8 items contribute 0"
+operational_gap_per_distress_item_to_explain_all,1.084,"hypothetical, other 8 items contribute 0"
+self_incel_ems_mean_per_item,3.80384615385,reported total divided by 13
+nonself_ems_mean_per_item,2.56846153846,reported total divided by 13
+operational_ems_mean_per_item,2.89153846154,reported total divided by 13
+operational_comparison_mean_per_item,2.47461538462,reported total divided by 13
+figure3_student_t_from_rounded_d_45_35,5.99003078039,illustrative t reconstruction; equal variances
+figure3_p_from_rounded_d_45_35,6.08636466395e-08,illustrative two-sided Student t p
+selmer_adjusted_incel_ci_lower_0to1,-0.051159063598,from rounded b and SE; approximate
+selmer_adjusted_incel_ci_upper_0to1,0.050759063598,from rounded b and SE; approximate
+selmer_adjusted_incel_ci_lower_raw_points,-3.99040696065,assumes linear rescaling of total range 13–91
+selmer_adjusted_incel_ci_upper_raw_points,3.95920696065,assumes linear rescaling of total range 13–91
+no_incel_criterion_n_if_overlap_45,244,illustrative overlap assumption
+no_incel_criterion_n_if_overlap_31,230,illustrative overlap assumption
